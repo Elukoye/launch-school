@@ -4,15 +4,6 @@ def division_operator(num)
 
 puts division_operator(1423)
 
-
-
-
-
-
-
-
-
-
 describe '#division_operator' do 
   num = 1423
   it 'returns the tens of places' do 
